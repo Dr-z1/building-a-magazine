@@ -1,34 +1,46 @@
-# building-a-magazine
+# **Magazine Webpage Project**
 
+## **Project Overview**
 
-This website was built using Free Code Camp instructions: Learn CSS Grid by building a Magazine
+#### This Project Is A **Magazine**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Section: Responsive Web Design
+#### The Primary Goal Is Learn How To Use CSS Grid By Building A Magazine.
 
-Course Name:  Learn CSS Grid by building a Magazine
+## **Course Details**
 
-Deatils:
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**: Magazine.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-CSS Grid gives you control over the rows and columns of your webpage design.
+## **Purpose**
 
-In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
+CSS Grid Gives You Control Over The Rows And Columns Of Your Webpage Design.  
 
+In This Course, You'll Build A Magazine Article. 
 
-Link:
+You'll Learn How To Use CSS Grid, Including Concepts Like Grid Rows And Grid Columns.
 
-https://www.freecodecamp.org/
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+## **Special Thanks**
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
